@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a student passionate about my projects.
 
 #  Technologies & Tools
 
-- Programming Languages: Html ,Css , Javascript.
+- Programming Languages: Html ,Css , Javascript, Mern.
 
 # Currently Learning
 
-I'm currently learning BscIt.
+I'm currently pursuing BscIt.
 
 # Contact Me
 
