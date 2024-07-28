@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student passionate about my projects.
 
 #  Technologies & Tools
 
-- Programming Languages: Web dev with MERN stack.
+- Programming Languages: MERN, Python and Machine Learning.
 
 # Currently Learning
 
