@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a student passionate about my projects.
 
 #  Technologies & Tools
 
-- Programming Languages: MERN, Python and Machine Learning.
+- Programming Languages: MERN, C++ and Machine Learning.
 
 # Currently Learning
 
-I'm currently pursuing BscIt.
+I'm currently pursuing MscIt.
 
 # Contact Me
 
