@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student passionate about my projects.
 
 #  Technologies & Tools
 
-- Programming Languages: MERN, C++ and Machine Learning.
+- Programming Language: C++.
 
 # Currently Learning
 
